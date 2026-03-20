@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "rp2350a-qfn60")(type "KiCad")(uri "/home/miracleaigbogun/kicad-libraries/RP2350/symbols/rp2350a-qfn60.kicad_sym")(options "")(descr ""))
+  (lib (name "ABM8-272-T3")(type "KiCad")(uri "/home/miracleaigbogun/kicad-libraries/ABM8-272-T3/ABM8-272-T3.kicad_sym")(options "")(descr ""))
+  (lib (name "SM03B-SRSS-TB_LF__SN_")(type "KiCad")(uri "/home/miracleaigbogun/kicad-libraries/SM03B-SRSS-TB_LF__SN_/SM03B-SRSS-TB_LF__SN_.kicad_sym")(options "")(descr ""))
+)

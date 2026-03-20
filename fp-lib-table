@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "footprints")(type "KiCad")(uri "/home/miracleaigbogun/kicad-libraries/RP2350/footprints")(options "")(descr ""))
+  (lib (name "ABM8-272-T3")(type "KiCad")(uri "/home/miracleaigbogun/kicad-libraries/ABM8-272-T3")(options "")(descr ""))
+  (lib (name "SM03B-SRSS-TB_LF__SN_")(type "KiCad")(uri "/home/miracleaigbogun/kicad-libraries/SM03B-SRSS-TB_LF__SN_")(options "")(descr ""))
+  (lib (name "flash_chip")(type "KiCad")(uri "${KIPRJMOD}/flash_chip.pretty")(options "")(descr ""))
+)

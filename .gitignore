@@ -1,0 +1,20 @@
+# KiCad backup files
+*.bak
+*.bck
+*.kicad_pcb-bak
+*-backups/
+
+# KiCad auto-generated files
+*.erc
+*.net
+*-cache.lib
+*-rescue.lib
+fp-info-cache
+
+# KiCad local settings (regenerates automatically)
+*.kicad_prl
+
+# Generic editor backup files
+*~
+\#*
+.\#*
